@@ -1,0 +1,4 @@
+- name: greeting-action
+  # You may pin to the exact commit or the version.
+  # uses: mertssmnoglu/greeting-action@442f529b8e3a285ffd98a06124d75e5237d39db1
+  uses: mertssmnoglu/greeting-action@v0.0.1-beta2
